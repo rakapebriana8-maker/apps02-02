@@ -1,0 +1,1 @@
+ini adalah fileindex.php
